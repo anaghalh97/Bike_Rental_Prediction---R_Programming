@@ -16,7 +16,6 @@ This project analyzes a bike-sharing dataset to understand how environmental con
 
 ## ❓ Problem Statement
 A bike rental company wants to accurately predict daily bike demand based on weather conditions, seasons, and calendar-related variables.  
-
 These predictions can help in:
 - Better resource allocation  
 - Improved operational planning  
@@ -83,8 +82,4 @@ The dataset contains daily bike rental data with the following key features:
 
 ## ✅ Conclusion
 The analysis shows that weather and seasonal factors significantly impact bike rental demand.  
-The **Random Forest model** provides reliable predictions and can support data-driven decision-making for bike-sharing services.
-
-The analysis shows that weather and seasonal factors significantly impact bike rental demand.  
-
 The **Random Forest model** provides reliable predictions and can support data-driven decision-making for bike-sharing services.
